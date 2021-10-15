@@ -1,4 +1,6 @@
-![Logo](https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/logo.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/logo.png" alt="Logo" width="75%"/>
+</p>
 
 # React Native Uber Clone
 
@@ -6,11 +8,7 @@ A cross-platform Uber clone app built with React Native, Expo
 
 ## Demo
 
-<div style="width:50%;">
-
-![React native uber clone](https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif)
-
-</div>
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/ezgif-7-2d01dc3b82b1.gif" alt="React native uber clone" width="60%"/>
 
 ## Features
 
@@ -48,12 +46,8 @@ Start the server
 
 ## Screenshots
 
-<div style="display:flex; gap:1rem;">
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="32%"/>
 
-![Screen to pick an origin](https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg)
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="32%"/>
 
-![Screen to pick a destination](https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg)
-
-![Screen to pick a ride](https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg)
-
-</div>
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" width="32%"/>
