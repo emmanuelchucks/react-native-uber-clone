@@ -46,8 +46,4 @@ Start the server
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="32%"/>
-
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="32%"/>
-
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" width="32%"/>
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="32%"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="32%"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302884.jpg" alt="Screen to pick a ride" width="32%"/>
