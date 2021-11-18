@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/logo.png" alt="Logo" width="75%"/>
-</p>
-
 # React Native Uber Clone
 
 A cross-platform Uber clone app built with React Native, Expo
